@@ -1,4 +1,8 @@
-# SNOW MAN
+# Snowman
+
+----
+
+Hat: True
 
 ```
 Art by Row
