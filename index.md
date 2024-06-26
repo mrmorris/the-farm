@@ -10,3 +10,4 @@ __Contribute your own!__
 * Penguin
 * Wood Chipper
 * Aardvark
+* The Bull
