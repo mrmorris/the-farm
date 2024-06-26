@@ -1,8 +1,8 @@
-# A Beaver
+# A Wood Chipper
 
 ---
 
-This is an animal that lives in the river.
+This is an animal that chips wood in a river.
 
 ```
      .-"""-.__     ltb
@@ -11,3 +11,5 @@ This is an animal that lives in the river.
 :_."\._ ) ::-"
        ""m "m
 ```
+
+Boop.
