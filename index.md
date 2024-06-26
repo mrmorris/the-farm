@@ -8,3 +8,4 @@ __Contribute your own!__
 * Bat
 * Beaver
 * Moose
+* Penguin
