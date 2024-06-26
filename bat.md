@@ -1,4 +1,8 @@
-## A Bat
+# A Bat
+
+----
+
+Color: Black
 
 ```
     =/\                 /\=
