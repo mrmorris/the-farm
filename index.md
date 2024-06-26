@@ -6,6 +6,7 @@ __Contribute your own!__
 
 * Cat
 * Bat
-* Beaver
 * Moose
 * Penguin
+* Wood Chipper
+* Aardvark
