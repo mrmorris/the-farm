@@ -44,5 +44,16 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           ls -la
-  
+          
+  deploy:
+    runs-on: ubuntu-latest
+
+    environment: Production
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run a one-line script
+        run: echo Running Tests
+
           
