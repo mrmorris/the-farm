@@ -19,6 +19,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Run a multi-line script
+        run: |
+          mkdir build
+          touch build/hello-world.md
+          echo "Hello" >> build/hello-world.md
+
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v4.3.3
+        with:
+          path: ./build
+
       - name: Run a one-line script
         run: echo Running Tests
 
